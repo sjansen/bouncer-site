@@ -1,6 +1,6 @@
 # Colophon
 
-Cloudfront.svg
+CloudFront.svg
 Lambda.svg
 S3.svg
  - By Amazon AWS
